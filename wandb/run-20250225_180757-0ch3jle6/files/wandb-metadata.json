@@ -1,0 +1,16 @@
+{
+  "os":  "macOS-15.3.1-arm64-arm-64bit",
+  "python":  "CPython 3.12.4",
+  "startedAt":  "2025-02-25T12:37:57.878374Z",
+  "program":  "/Users/satyaswaroopnune/distance_classification/distance_classification.py",
+  "codePath":  "distance_classification.py",
+  "git":  {
+    "remote":  "https://github.com/swaroop-nune/-distance_classification.git",
+    "commit":  "5dce0e1d0e37da5ea41bb6d1adedbf33b7607dfd"
+  },
+  "email":  "satya.nune.ug23@plaksha.edu.in",
+  "root":  "/Users/satyaswaroopnune/distance_classification",
+  "host":  "Swaroops-MacBook-Air.local",
+  "executable":  "/opt/anaconda3/bin/python",
+  "codePathLocal":  "distance_classification.py"
+}
