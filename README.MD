@@ -23,3 +23,5 @@ Ans:-  Cross-validation helps evaluate a model’s performance by splitting the 
 
 5.	Explain variance and bias in terms of KNN? 
 Ans :-  In K-Nearest Neighbors (KNN), a low value of K (e.g., K=1) leads to high variance, as the model closely follows training data and is sensitive to noise. A high K value increases bias, as the model oversimplifies patterns by averaging over many neighbors, potentially missing finer details.
+
+wandb dashboard image: ![wandb dashboard](images/wandb_dashboard.png)
