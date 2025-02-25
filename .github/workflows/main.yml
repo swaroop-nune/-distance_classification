@@ -14,7 +14,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install numpy pandas scikit-learn wandb opencv-python jupyter
+          pip install numpy pandas scikit-learn wandb opencv-python jupyter matplotlib
       - name: Run Jupyter Notebook
         run: |
           jupyter nbconvert --to notebook --execute main.ipynb --output executed_notebook.ipynb
